@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>https://Saltguy.github.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Saltguy.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial</title>
-      <link>https://Saltguy.github.com/post/2025/03/24/initial/</link>
+      <link>http://localhost:1313/post/2025/03/24/initial/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://Saltguy.github.com/post/2025/03/24/initial/</guid>
+      <guid>http://localhost:1313/post/2025/03/24/initial/</guid>
       <description>&lt;p&gt;This is my first entry to this &amp;ldquo;blog&amp;rdquo;. Typing that word makes me feel at least ten years older than I am, so can we get rid of the initial &lt;em&gt;b&lt;/em&gt; and just call it a &lt;em&gt;log&lt;/em&gt;? Its unclipped form is &lt;em&gt;weblog&lt;/em&gt;, and since this kind of leisurely writing is now probably mainly on the web anyway, the &lt;em&gt;b&lt;/em&gt; expresses no important distinction.&lt;/p&gt;&#xA;&lt;p&gt;Though really, I feel a little embarassed writing a &amp;ldquo;blog post&amp;rdquo; in 2025, and so I want to justify the act with a change of wording.&lt;/p&gt;</description>
     </item>
   </channel>

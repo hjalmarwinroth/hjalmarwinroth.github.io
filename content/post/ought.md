@@ -17,6 +17,7 @@ The first mode is to approach life as an engineering problem, treating your body
 
 The second mode is to 
 
+It may be a kind of though-terminating cliche.
 
 An h1 header
 ============

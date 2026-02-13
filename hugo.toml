@@ -1,4 +1,4 @@
-baseurl = "https://Saltguy.github.com"
+baseurl = "https://hjalmarwinroth.github.com"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
@@ -31,7 +31,7 @@ post = "/post/:year/:month/:day/:slug/"
 
 [[menu.feed]]
 name = "github"
-url = "https://github.com/Saltguy"
+url = "https://github.com/hjalmarwinroth"
 weight = 2
 [params]
 custom_css = ["css/theme-override.css"]
