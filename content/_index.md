@@ -9,7 +9,7 @@ description: "Personal website."
   width=350>
 
 ### About
-I'm a physics student at KTH in Sweden. I may post about things that interest me here. 
+Master's student in physics at KTH in Sweden. Interested in language, Japanese, Chinese,
 
 
 
